@@ -1,6 +1,6 @@
-/** {
+* {
 	outline: 1px solid red;
-}*/
+}
 body {
 	font-family: "Segoe ui", Arial, Helvetica, sans-serif;
 	font-weight: 600; 
@@ -62,9 +62,11 @@ body {
 }
 .final {
 	font-size: 20px;
+	float: left;
 }
 .final span {
 	margin: 55px;
+	margin: 0;
 }
 input::-webkit-input-placeholder {
 	padding-left: 10px;
